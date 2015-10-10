@@ -1,1 +1,2 @@
-# courseproject1
+# Exploratory Data Analysis
+## Course Project1
